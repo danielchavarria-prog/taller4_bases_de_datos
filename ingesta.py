@@ -44,3 +44,5 @@ else:
     print("No se obtuvieron datos.")
 
 client.close()
+
+print("Proceso de ingesta finalizado exitosamente.")
