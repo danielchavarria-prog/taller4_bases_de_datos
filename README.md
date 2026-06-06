@@ -22,4 +22,9 @@ python ingesta.py
 ```bash
 python -m jupyter notebook
 ```
-Guarda ambos archivos y avísame.
+## Insights encontrados
+- El 66.7% de personajes son hombres y el 33.3% mujeres
+- 110 personajes están vivos, 8 fallecidos y 2 con estado desconocido
+- La edad promedio es 35.5 años
+- La ocupación más común es "Student" con 9 personajes
+- Solo 47 de 120 personajes tienen edad registrada
