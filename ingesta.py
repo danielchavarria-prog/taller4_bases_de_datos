@@ -1,3 +1,6 @@
+# Script de extracción de datos desde The Simpsons API y carga en MongoDB
+# Taller 4 - Bases de Datos - UdeA
+
 import requests
 from pymongo import MongoClient
 
